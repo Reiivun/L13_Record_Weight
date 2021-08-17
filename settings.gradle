@@ -1,0 +1,2 @@
+rootProject.name = "L13_Record_Weight_New"
+include ':app'
